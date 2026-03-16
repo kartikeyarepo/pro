@@ -50,7 +50,7 @@
     <repository>
       <id>deployment</id>
       <name>Internal releases</name>
-      <url>http://35.244.11.27:8081/repository/maven-snapshots/</url>
+      <url>http://192.168.29.32:8081/repository/KartikeyaSoft-Snap-v1/</url>
     </repository>
   </distributionManagement>
 
