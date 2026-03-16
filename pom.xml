@@ -7,7 +7,7 @@
   <groupId>com.sample</groupId>
   <artifactId>LoginApp</artifactId>
   <packaging>war</packaging>
-  <version>12-SNAPSHOT</version>
+  <version>13-SNAPSHOT</version>
   <name>LoginApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
