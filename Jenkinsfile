@@ -2,7 +2,7 @@ pipeline {
     agent any
 
    stages {      
-   stage('Validate') {
+   stage('Validate') {   
             steps {
                 sh 'mvn validate'
             }
