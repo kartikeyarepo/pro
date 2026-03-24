@@ -1,12 +1,7 @@
 pipeline {
     agent any
 
-    stages {
-        stage('GitClone') {
-            steps {
-                git 'https://github.com/kartikeyarepo/pro.git'
-            }
-        }
+   stages {      
    stage('Validate') {
             steps {
                 sh 'mvn validate'
