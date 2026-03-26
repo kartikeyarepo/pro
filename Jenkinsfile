@@ -3,7 +3,7 @@ pipeline {
 
    stages {      
    stage('Validate') {   
-            steps {
+            steps {  
                 sh 'mvn validate'
             }
         }
